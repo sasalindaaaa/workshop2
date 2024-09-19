@@ -1,2 +1,2 @@
-nome: Samanta
-idade: 18
+nome: Duda
+idade: 25
